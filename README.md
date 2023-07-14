@@ -27,6 +27,8 @@
 
 - 📄 Know about my experiences <a href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf" target="blank">**Resume**</a>
 
+- 💪🏼 Fav Quote: "Great Developers never stop learning".
+
 - 😄 Pronouns : **He/Him/His**
 
   <!-- Short Stats -->
@@ -47,8 +49,15 @@
 <p align="center">
   <a href="https://skillicons.dev">
 <img src="https://skillicons.dev/icons?i=git,discord,github,mysql,py,vscode,linkedin,stackoverflow,wordpress,cpp,java&perline=14"/>
+<img src="https://cdn.jsdelivr.net/npm/feather-icons@4.28.0/dist/icons/tableau.svg" width="32"/>
+<img src="https://cdn.jsdelivr.net/npm/feather-icons@4.28.0/dist/icons/excel.svg" width="32"/>
+<img src="https://cdn.jsdelivr.net/npm/feather-icons@4.28.0/dist/icons/pandas.svg" width="32"/>
+<img src="https://cdn.jsdelivr.net/npm/feather-icons@4.28.0/dist/icons/numpy.svg" width="32"/>
+<img src="https://cdn.jsdelivr.net/npm/feather-icons@4.28.0/dist/icons/matplot.svg" width="32"/>
+<img src="https://cdn.jsdelivr.net/npm/feather-icons@4.28.0/dist/icons/trello.svg" width="32"/>
   </a>
 </p>
+
 
 <!-- Connect with me -->
 <div id="user-content-toc">
