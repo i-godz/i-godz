@@ -1,4 +1,4 @@
-<!-- Hero Image -->
+<!-- Hero Top Image -->
 <p align="center">
   <img src="https://github.com/i-godz/i-godz/blob/main/final.png " height="200" />
 </p>
@@ -10,7 +10,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Senior+Computer+Science+Student;Junior+Data+Analyst;Junior+BI+Developer;If+data+is+batman+call+me+robbin"></a>
 </p>
 
-
+  <!-- Hero Right Image -->
 <a target="_blank">
   <img align="right" height="250" width="400" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/code.gif">
 </a>
@@ -29,6 +29,7 @@
 
 - 😄 Pronouns : **He/Him/His**
 
+  <!-- Short Stats -->
 <p align="center">  
   <img src="https://komarev.com/ghpvc/?username=i-godz" alt="i-godz" />
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/i-godz?label=Followers&style=social"> •   
