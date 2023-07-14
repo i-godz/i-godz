@@ -11,20 +11,10 @@
 </p>
 
 
-- 🔭 I’m currently working in <a href="https://phoenix.tech/griffyn/" target="blank">Griffyn Robotech Private Limited</a>
-
-- 🌱 I’m currently Working on Mobile App(React-Native)
-
-- 🤝 I’m available for freelancing.
-
-- 🌱 I’m currently learning Swift && SwiftUI <a href="https://github.com/100rabhcsmc/100DaysOfSwift" target="blank">100DaysOfSwift</a>
-
-
-
-
-- 👨‍💻 All of my projects are available at [https://zyadwael.glitch.me](https://zyadwael.glitch.me)
 
 - 👾 A senior student working his way around things
+
+- 👨‍💻 All of my projects are available at my <a href="https://zyadwael.glitch.me" target="blank">portfolio</a>
 
 - 👯 I’m looking to collaborate on more projects
   
