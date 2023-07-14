@@ -14,7 +14,7 @@
 
 - 👾 A senior student working his way around things
 
-- 👨‍💻 All of my projects are available at my <a href="https://zyadwael.glitch.me" target="blank">portfolio</a>
+- 👨‍💻 All of my projects are available at my <a href="https://zyadwael.glitch.me" target="blank">**portfolio**</a>
 
 - 👯 I’m looking to collaborate on more projects
   
@@ -22,7 +22,7 @@
 
 - 📫 How to reach me **zyadwael366@gmail.com**
 
-- 📄 Know about my experiences <a href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf" target="blank">Resume</a>
+- 📄 Know about my experiences <a href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf" target="blank">**Resume**</a>
 
 
 
