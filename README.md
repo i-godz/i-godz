@@ -10,8 +10,6 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Senior+Computer+Science+Student;Junior+Data+Analyst;Junior+BI+Developer;If+data+is+batman+call+me+robbin"></a>
 </p>
 
-
-
 - 👾 A senior student working his way around things
 
 - 👨‍💻 All of my projects are available at my <a href="https://zyadwael.glitch.me" target="blank">**portfolio**</a>
@@ -23,12 +21,6 @@
 - 📫 How to reach me **zyadwael366@gmail.com**
 
 - 📄 Know about my experiences <a href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf" target="blank">**Resume**</a>
-
-
-
-
-
-
 
 
 <!--Tech Stack Title-->
@@ -50,18 +42,6 @@
     <summary><h2 style="display: inline-block">Let's Connect</h2><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"></summary>
   </ul>
 </div>
-
-
-
-[<img src='https://github.com/sourabmaity/sourabmaity/blob/main/assets/logo/iconfinder_social_media_isometric_14-linkedin_3529657.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/sourab-maity-4551061b8/)&nbsp;  [<img src='https://github.com/sourabmaity/sourabmaity/blob/main/assets/logo/iconfinder_social_media_isometric_6-twitter_3529664.png' alt='twitter' height='40'>](https://twitter.com/maity_sourab)&nbsp;  [<img src='https://github.com/sourabmaity/sourabmaity/blob/main/assets/logo/iconfinder_StackOverflow_2613280.png' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/13909768/sourab-maity)&nbsp;
-[<img src='https://github.com/sourabmaity/sourabmaity/blob/main/assets/logo/iconfinder__github_1156638.png' alt='github' height='40'>](https://github.com/sourabmaity)&nbsp;  
-
-
-
-
-
-
-
 
 
 <!--icons and links-->
