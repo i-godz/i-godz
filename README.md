@@ -14,7 +14,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=git,discord,github,mysql,py,vscode,oracle,pandas,numpy,tableau,excel,jupyter&perline=14"/>
+<img src="https://skillicons.dev/icons?i=git,discord,github,mysql,py,vscode,linkedin&perline=14"/>
   </a>
 </p>
 
