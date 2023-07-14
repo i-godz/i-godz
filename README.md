@@ -1,7 +1,6 @@
 <p align="center">
   <img src="https://drive.google.com/file/d/1Mjg6Oz_9NBKbAYnE4UYH_8LE2nTbMnmg/view?usp=drive_link" height="200"/>
 </p>
-<hr>
 
 <h1 align="center">Hello,  I'm Zyad Wael <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <div>
