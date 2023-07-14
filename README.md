@@ -10,6 +10,11 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Senior+Computer+Science+Student;Junior+Data+Analyst;Junior+BI+Developer;If+data+is+batman+call+me+robbin"></a>
 </p>
 
+
+<a target="_blank">
+  <img align="right" height="250" width="400" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/code.gif">
+</a>
+
 - 👾 A senior student working his way around things
 
 - 👨‍💻 All of my projects are available at my <a href="https://zyadwael.glitch.me" target="blank">**portfolio**</a>
@@ -21,6 +26,8 @@
 - 📫 How to reach me **zyadwael366@gmail.com**
 
 - 📄 Know about my experiences <a href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf" target="blank">**Resume**</a>
+
+- 😄 Pronouns : **He/Him/His**
 
 
 <!--Tech Stack Title-->
