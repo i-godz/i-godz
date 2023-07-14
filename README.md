@@ -22,7 +22,7 @@
 
 
 
-- 👨‍💻 All of my projects are available at [https://zyadwael.glitch.me](https:https://zyadwael.glitch.me)
+- 👨‍💻 All of my projects are available at [https://zyadwael.glitch.me](https://zyadwael.glitch.me)
 
 - 👾 A senior student working his way around things
 
