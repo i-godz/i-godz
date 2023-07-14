@@ -1,16 +1,17 @@
+<!-- Hero Image -->
 <p align="center">
   <img src="https://github.com/i-godz/i-godz/blob/main/final.png " height="200" />
 </p>
 <h1 align="center">Hello,I'm Zyad Wael <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <div>
   
-  
+  <!-- Hero Title -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Senior+Computer+Science+Student;Junior+Data+Analyst;Junior+BI+Developer;If+data+is+batman+call+me+robbin"></a>
 </p>
 
 
-!--h1 without bottom border-->
+<!--Tech Stack Title-->
 <div id="user-content-toc">
   <ul align="center">
     <summary><h2 style="display: inline-block">Technologies That I'm Familiar With👨🏻‍💻</h2></summary>
