@@ -16,7 +16,7 @@
 
 - 👨‍💻 All of my projects are available at my <a href="https://zyadwael.glitch.me" target="blank">**portfolio**</a>
 
-- 👯 I’m looking to collaborate on more projects
+- 👯 I’m looking to collaborate on any open source project
   
 - 💬 Ask me about **Data Analysis & Data Science**
 
