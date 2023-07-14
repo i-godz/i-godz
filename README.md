@@ -10,11 +10,16 @@
 </p>
 
 
-
+!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Technologies That I'm Familiar With👨🏻‍💻</h2></summary>
+  </ul>
+</div>
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=git,discord,github,mysql,py,vscode,linkedin&perline=14"/>
+<img src="https://skillicons.dev/icons?i=git,discord,github,mysql,py,vscode,linkedin,stackoverflow,wordpress&perline=14"/>
   </a>
 </p>
 
