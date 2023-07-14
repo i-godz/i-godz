@@ -29,6 +29,12 @@
 
 - 😄 Pronouns : **He/Him/His**
 
+<p align="center">  
+  <img src="https://komarev.com/ghpvc/?username=i-godz" alt="i-godz" />
+  <img alt="GitHub followers" src="https://img.shields.io/github/followers/i-godz?label=Followers&style=social"> •   
+  <img src="https://img.shields.io/github/stars/i-godz?label=Stars" alt="Total Stars">
+</p>
+
 
 <!--Tech Stack Title-->
 <div id="user-content-toc">
