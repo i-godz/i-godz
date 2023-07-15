@@ -49,12 +49,18 @@
 <p align="center">
   <a href="https://skillicons.dev">
 <img src="https://skillicons.dev/icons?i=git,discord,github,mysql,py,vscode,linkedin,stackoverflow,wordpress,cpp,java&perline=14"/>
-<img src="https://cdn.jsdelivr.net/npm/feather-icons@4.28.0/dist/icons/tableau.svg" width="32"/>
-<img src="https://cdn.jsdelivr.net/npm/feather-icons@4.28.0/dist/icons/excel.svg" width="32"/>
-<img src="https://cdn.jsdelivr.net/npm/feather-icons@4.28.0/dist/icons/pandas.svg" width="32"/>
-<img src="https://cdn.jsdelivr.net/npm/feather-icons@4.28.0/dist/icons/numpy.svg" width="32"/>
-<img src="https://cdn.jsdelivr.net/npm/feather-icons@4.28.0/dist/icons/matplot.svg" width="32"/>
-<img src="https://cdn.jsdelivr.net/npm/feather-icons@4.28.0/dist/icons/trello.svg" width="32"/>
+  </a>
+</p>
+
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://feathericons.com/icons">
+<img src="https://feathericons.com/icons/tableau.svg" alt="Tableau icon" width="20" height="20"/>
+<img src="https://feathericons.com/icons/excel.svg" alt="Excel icon" width="20" height="20"/>
+<img src="https://feathericons.com/icons/pandas.svg" alt="Pandas icon" width="20" height="20"/>
+<img src="https://feathericons.com/icons/numpy.svg" alt="Numpy icon" width="20" height="20"/>
+<img src="https://feathericons.com/icons/matplot.svg" alt="Matplot icon" width="20" height="20"/>
+<img src="https://feathericons.com/icons/trello.svg" alt="Trello icon" width="20" height="20"/>
   </a>
 </p>
 
