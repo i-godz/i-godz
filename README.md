@@ -132,5 +132,4 @@
 
 
 <h1 align = 'Center'>Watch a 🐍 eating my contribution graph</h1>
-
 ![snake gif](https://github.com/i-godz/i-godz/blob/output/github-contribution-grid-snake.svg)
