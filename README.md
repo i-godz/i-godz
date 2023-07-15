@@ -94,7 +94,7 @@
 </p>
 
 
-<h2>🕹️ Competitive Programming & Problem Solving</h2>
+<div id="user-content-toc"><ul align="left"><summary><h2 style="display: inline-block">🕹️ Competitive Programming & Problem Solving</h2></summary></ul></div>
 <p>
   <a href="https://leetcode.com/"><img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?&logo=leetcode&logoColor=white"></a>
 <a href="https://www.hackerrank.com/"><img alt="HackerRank" src="https://img.shields.io/badge/HackerRank-%232EC866.svg?&logo=hackerrank&logoColor=white"></a>
@@ -110,6 +110,8 @@
 
 <!-- Github account stats header-->
 <div id="user-content-toc"><ul align="center"><summary><h1 style="display: inline-block">Github Stats</h1></summary></ul></div>
+
+
 <!-- Github Streak stats-->
 <details><summary><h3> 🔥 Streak Stats</h3></summary>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=i-godz&theme=tokyonight_duo" alt="i-godz" /></p></details>
