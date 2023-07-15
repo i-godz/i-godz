@@ -15,21 +15,25 @@
   <img align="right" height="250" width="400" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/code.gif">
 </a>
 
-- 👾 A senior student working his way around things
-
-- 👨‍💻 All of my projects are available at my <a href="https://zyadwael.glitch.me" target="blank">**portfolio**</a>
-
-- 👯 I’m looking to collaborate on any open source project
+- 👾 A senior student working his way around things.
   
-- 💬 Ask me about **Data Analysis & Data Science**
+- 👍 Looking for opportunities to join as an intern/full time in deep learning fields.
 
-- 📫 How to reach me **zyadwael366@gmail.com**
+- 👨‍💻 All of my projects are available at my <a href="https://zyadwael.glitch.me" target="blank">**portfolio**</a>.
 
-- 📄 Know about my experiences <a href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf" target="blank">**Resume**</a>
+- 👯 I’m looking to collaborate on any open source project.
+  
+- 💬 Ask me about **Data Analysis & Data Science**.
+
+- 📫 How to reach me **zyadwael366@gmail.com**.
+
+- 📄 Know about my experiences <a href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf" target="blank">**Resume**</a>.
 
 - 💪🏼 Fav Quote: "Great Developers never stop learning".
+  
+- 🌍 Based in Cairo.
 
-- 😄 Pronouns : **He/Him/His**
+- 😄 Pronouns : **He/Him/His**.
 
   <!-- Short Stats -->
 <p align="center">  
@@ -124,3 +128,9 @@
 <a href="https://www.instagram.com/nishant.jangir.1010/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
 <a href="https://discord.gg/UjwKkJsXsf" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a> 
 </p>
+
+
+
+<h1 align = 'Center'>Watch a 🐍 eating my contribution graph</h1>
+![snake gif](https://github.com/i-godz/i-godz/blob/output/github-contribution-grid-snake.svg)
+
