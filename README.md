@@ -72,19 +72,21 @@
 
 <h2>🎨 BI & Visualization</h2>
 <p>
+  <a href="https://docs.google.com/spreadsheets/"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets-%234285F4.svg?&logo=google-sheets&logoColor=white"></a>
 <a href="https://www.excel-easy.com/"><img alt="Excel" src="https://img.shields.io/badge/Excel-%230078D4.svg?&logo=excel&logoColor=white"></a>
 <a href="https://www.tableau.com/"><img alt="Tableau" src="https://img.shields.io/badge/Tableau-%233174C0.svg?&logo=tableau&logoColor=white"></a>
 </p>
 
-<h2> 🛠️ Other Tools</h2>
+<h2> 🛠️ Softwares & Other Tools</h2>
 <p>
 <a href="https://www.kaggle.com/"><img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-%230052CC.svg?&logo=kaggle&logoColor=white"></a>
 <a href="https://jupyter.org/"><img alt="Jupyter Notebook" src="https://img.shields.io/badge/Jupyter%20Notebook-%23F39D2B.svg?&logo=jupyter&logoColor=white"></a>
 <a href="https://trello.com/"><img alt="Trello" src="https://img.shields.io/badge/Trello-%230052CC.svg?&logo=trello&logoColor=white"></a>
 <a href="https://code.visualstudio.com/"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC.svg?&logo=visual-studio-code&logoColor=white"></a>
 <a href="https://github.com/"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23181717.svg?&logo=github&logoColor=white"></a>
+<a href="https://www.jetbrains.com/pycharm/"><img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-%23181717.svg?&logo=pycharm&logoColor=white"></a>
+<a href="https://discordapp.com/"><img alt="Discord" src="https://img.shields.io/badge/Discord-%237289DA.svg?&logo=discord&logoColor=white"></a>
 </p>
-
 
 
 
