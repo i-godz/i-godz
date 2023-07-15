@@ -1,6 +1,6 @@
 <!-- Hero Top Image -->
 <p align="center">
-  <img src="https://github.com/i-godz/i-godz/blob/main/final.png " height="200" />
+  <img src="https://github.com/i-godz/i-godz/blob/main/final.png " height="250" />
 </p>
 
 <!-- Hero Title -->
