@@ -55,14 +55,15 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://feathericons.com/icons">
-<img src="https://feathericons.com/icons/tableau.svg" alt="Tableau icon" width="20" height="20"/>
-<img src="https://feathericons.com/icons/excel.svg" alt="Excel icon" width="20" height="20"/>
-<img src="https://feathericons.com/icons/pandas.svg" alt="Pandas icon" width="20" height="20"/>
-<img src="https://feathericons.com/icons/numpy.svg" alt="Numpy icon" width="20" height="20"/>
-<img src="https://feathericons.com/icons/matplot.svg" alt="Matplot icon" width="20" height="20"/>
-<img src="https://feathericons.com/icons/trello.svg" alt="Trello icon" width="20" height="20"/>
+<img src="https://feathericons.com/icons/tableau.svg" alt="Tableau icon" class="feather feather-tableau" width="20" height="20"/>
+<img src="https://feathericons.com/icons/excel.svg" alt="Excel icon" class="feather feather-excel" width="20" height="20"/>
+<img src="https://feathericons.com/icons/pandas.svg" alt="Pandas icon" class="feather feather-pandas" width="20" height="20"/>
+<img src="https://feathericons.com/icons/numpy.svg" alt="Numpy icon" class="feather feather-numpy" width="20" height="20"/>
+<img src="https://feathericons.com/icons/matplot.svg" alt="Matplot icon" class="feather feather-matplot" width="20" height="20"/>
+<img src="https://feathericons.com/icons/trello.svg" alt="Trello icon" class="feather feather-trello" width="20" height="20"/>
   </a>
 </p>
+
 
 
 <!-- Connect with me -->
