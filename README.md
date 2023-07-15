@@ -184,6 +184,6 @@
 </p>
 
 
-## Watch a🐍 Snake Eating my Contributions Graph
-	
+<!--Snake Graph-->
+<div id="user-content-toc"><ul align="center"><summary><h1 style="display: inline-block">Watch a 🐍 Snake Eating my Contributions Graph</h1></summary></ul></div>
 <p align = "center"><img src = "https://github.com/i-godz/i-godz/blob/main/grid-snake.svg?" alt = "Snake Game"/></p>
