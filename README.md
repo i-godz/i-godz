@@ -106,7 +106,7 @@
 
 
 <!-- Github account stats header-->
-<h1 align="center">Github Stats</h1><picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width="50px"></picture>
+<h1 align="center">Github Stats</h1><picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width="50px" align="right"></picture>
 
 <!-- Github Streak stats-->
 <details><summary><h3> 🔥 Streak Stats</h3></summary>
