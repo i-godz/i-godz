@@ -46,29 +46,34 @@
   </ul>
 </div>
 <!--tech stack icons-->
-<p align="center">
+<!-- <p align="center">
   <a href="https://skillicons.dev">
 <img src="https://skillicons.dev/icons?i=git,discord,github,mysql,py,vscode,linkedin,stackoverflow,wordpress,cpp,java&perline=14"/>
   </a>
+</p> -->
+
+<h2>🧰 Frameworks and Libraries</h2>
+<p>
+<a href="https://www.python.org/"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat"></a>
+<a href="https://www.sql.org/"><img alt="SQL" src="https://img.shields.io/badge/SQL-27AE60?logo=sql&logoColor=fff&style=flat"></a>
+<a href="https://pandas.pydata.org/"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-29ABCA?logo=pandas&logoColor=fff&style=flat"></a>
+<a href="https://numpy.org/"><img alt="NumPy" src="https://img.shields.io/badge/NumPy-%230077B5.svg?&logo=numpy&logoColor=white"></a>
+<a href="https://matplotlib.org/"><img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-%232768A2.svg?&logo=matplotlib&logoColor=white"></a>
+<a href="https://scikit-learn.org/stable/"><img alt="Scikit-learn" src="https://img.shields.io/badge/Scikit--learn-%23007ACC.svg?&logo=scikit-learn&logoColor=white"></a>
 </p>
 
-<!DOCTYPE html>
-<html>
-<head>
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
-</head>
-<body>
-  <p align="center">
 
-    <i class="fab fa-tableau"></i> <!-- Tableau icon -->
-    <i class="fas fa-file-excel"></i> <!-- Excel icon -->
-    <i class="fab fa-python"></i> <!-- Python icon -->
-    <i class="fab fa-numpy"></i> <!-- NumPy icon -->
-    <i class="fas fa-chart-bar"></i> <!-- Matplotlib icon -->
-    <i class="fab fa-trello"></i> <!-- Trello icon -->
-  </p>
-</body>
-</html>
+
+
+
+
+
+
+
+
+
+
+
 
 
 
