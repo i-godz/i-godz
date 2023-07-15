@@ -17,7 +17,9 @@
 
 - 👾 A senior student working his way around things.
   
-- 👍 Looking for opportunities to join as an intern/full time in deep learning fields.
+-  🌍 Based in Cairo.
+  
+- 👍 Looking for opportunities to join as an intern in Data Analysis & Data Science fields.
 
 - 👨‍💻 All of my projects are available at my <a href="https://zyadwael.glitch.me" target="blank">**portfolio**</a>.
 
@@ -31,8 +33,8 @@
 
 - 💪🏼 Fav Quote: "Great Developers never stop learning".
   
-- 🌍 Based in Cairo.
-
+- ⚡ Learning something new everyday keps my dopamine levels high.
+  
 - 😄 Pronouns : **He/Him/His**.
 
   <!-- Short Stats -->
@@ -56,7 +58,7 @@
   </a>
 </p> -->
 
-<h3>🧰 Frameworks and Libraries</h3>
+<h3>⚛️ Frameworks and Libraries</h3>
 <p>
 <a href="https://www.python.org/"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat"></a>
 <a href="https://www.sql.org/"><img alt="SQL" src="https://img.shields.io/badge/SQL-27AE60?logo=sql&logoColor=fff&style=flat"></a>
@@ -107,6 +109,27 @@
 </p>
 
 
+<p align = "center">
+	<a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
+</p>
+
+## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
+
+<details><summary><h3> 🔥 Streak Stats</h3></summary>
+
+----	
+
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=i-godz&theme=tokyonight_duo" alt="i-godz" /></p>
+
+</details>
+  
+<details><summary><h3>💻 GitHub Profile Stats</h3></summary>
+
+----
+
+
+
+
 
 
 
@@ -120,8 +143,6 @@
     <summary><h2 style="display: inline-block">Let's Connect</h2><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"></summary>
   </ul>
 </div>
-
-
 <!--icons and links-->
 <p align="center">
 <a href="https://www.linkedin.com/in/1010nishant/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
@@ -131,5 +152,3 @@
 
 
 
-<h1 align = 'Center'>Watch a 🐍 eating my contribution graph</h1>
-![snake gif](https://github.com/i-godz/i-godz/blob/output/github-contribution-grid-snake.svg)
