@@ -44,6 +44,8 @@
   <img src="https://img.shields.io/github/stars/i-godz?label=Stars" alt="Total Stars">
 </p>
 
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!--Tech Stack Title-->
 <div id="user-content-toc">
@@ -102,7 +104,8 @@
 <a href="https://sqlbolt.com/"><img alt="SQLBolt" src="https://img.shields.io/badge/SQLBolt-%231FAD91.svg?&logo=sqlbolt&logoColor=white"></a>
 </p>
 
-
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
 <!-- Github account stats header-->
@@ -131,8 +134,7 @@
 </details>
 
 
-
-
+<!-- My Repositories -->
 <details><summary><h3> :open_file_folder: My Repositories </h3></summary>
 <div>
   <p align="center">
@@ -156,22 +158,8 @@
 </details>
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!-- Connect with me -->
 <div id="user-content-toc">
