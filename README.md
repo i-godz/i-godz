@@ -185,5 +185,20 @@
 
 
 <!--Snake Graph-->
+<svg width="400" height="400">
+  <rect width="400" height="400" fill="black" />
+  <g id="snake">
+    <path d="M0,0 L100,0 L100,100 L0,100 Z" fill="rgb(5,98,2)" />
+    <path d="M100,0 L200,0 L200,100 L100,100 Z" fill="rgb(5,98,2)" />
+    <path d="M200,0 L300,0 L300,100 L200,100 Z" fill="rgb(5,98,2)" />
+  </g>
+</svg>
+
+#snake {
+  fill: rgb(5,98,2);
+}
+
+
+
 <div id="user-content-toc"><ul align="center"><summary><h3 style="display: inline-block">Watch a 🐍 Snake Eating my Contributions Graph</h3></summary></ul></div>
 <p align = "center"><img src = "https://github.com/i-godz/i-godz/blob/main/grid-snake.svg?" alt = "Snake Game"/></p>
