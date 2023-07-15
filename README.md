@@ -6,14 +6,13 @@
 <!-- Hero Title -->
 <div id="user-content-toc"><ul align="center"><summary><h1 style="display: inline-block">Hello, I'm Zyad<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1></summary></ul></div>
 
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-
   <!-- Hero Typescript Title -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Senior+Computer+Science+Student;Junior+Data+Analyst;Junior+BI+Developer;If+data+is+batman+call+me+robbin"></a>
 </p>
+
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
   <!-- Hero Right Image -->
 <a target="_blank">
