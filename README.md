@@ -111,15 +111,15 @@
 
 
 
-<!-- Github account stats -->
+<!-- Github account stats header-->
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
 
-----
+<!-- Github Streak stats-->
 <details><summary><h3> 🔥 Streak Stats</h3></summary>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=i-godz&theme=tokyonight_duo" alt="i-godz" /></p></details>
-----
 
-----
+
+<!-- Github account stats -->
 <details><summary><h3>💻 GitHub Profile Stats</h3></summary>
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -129,15 +129,18 @@
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
 </details>
-----
 
 
+<!-- Github Recent account Activity -->
+<details><summary><h3>⚡ Recent GitHub Activity</h3></summary>	
+[![i-godz's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=i-godz&theme=github	)](https://github.com/i-godz/github-readme-activity-graph)
+</details>
 
-
-
-
-
-
+<!-- Git profile Trophies -->
+<details><summary> <h3> :trophy: Git profile Trophies </h3></summary>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=i-godz&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="i-godz" /></a> </p>
+[![@i-godz's Holopin board](https://holopin.io/api/user/board?user=i-godz)](https://holopin.io/@i-godz)	
+</details>
 
 
 <!-- Connect with me -->
