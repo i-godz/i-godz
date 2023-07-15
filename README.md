@@ -194,7 +194,7 @@
   </g>
 </svg>
 
-#snake {
+# snake {
   fill: rgb(5,98,2);
 }
 
