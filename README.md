@@ -62,7 +62,7 @@
 <a href="https://scikit-learn.org/stable/"><img alt="Scikit-learn" src="https://img.shields.io/badge/Scikit--learn-%23007ACC.svg?&logo=scikit-learn&logoColor=white"></a>
 </p>
 
-<h2>🎨 Database Management Systems</h2>
+<h2>🗂️ Database Management Systems</h2>
 <p>
 <a href="https://www.microsoft.com/en-us/sql/"><img alt="SQL Server" src="https://img.shields.io/badge/SQL%20Server-27AE60?logo=mssql&logoColor=fff&style=flat"></a>
 <a href="https://www.oracle.com/database/"><img alt="Oracle" src="https://img.shields.io/badge/Oracle-2088FF?logo=oracle&logoColor=fff&style=flat"></a>
@@ -76,7 +76,14 @@
 <a href="https://www.tableau.com/"><img alt="Tableau" src="https://img.shields.io/badge/Tableau-%233174C0.svg?&logo=tableau&logoColor=white"></a>
 </p>
 
-
+<h2> 🛠️ Other Tools</h2>
+<p>
+<a href="https://www.kaggle.com/"><img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-%230052CC.svg?&logo=kaggle&logoColor=white"></a>
+<a href="https://jupyter.org/"><img alt="Jupyter Notebook" src="https://img.shields.io/badge/Jupyter%20Notebook-%23F39D2B.svg?&logo=jupyter&logoColor=white"></a>
+<a href="https://trello.com/"><img alt="Trello" src="https://img.shields.io/badge/Trello-%230052CC.svg?&logo=trello&logoColor=white"></a>
+<a href="https://code.visualstudio.com/"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC.svg?&logo=visual-studio-code&logoColor=white"></a>
+<a href="https://github.com/"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23181717.svg?&logo=github&logoColor=white"></a>
+</p>
 
 
 
