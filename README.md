@@ -57,9 +57,7 @@
 
 <!-- Add the icons -->
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,discord,github,mysql,py,vscode,linkedin,stackoverflow,wordpress,cpp,java&perline=14" alt="Skill Icons" />
-  </a>
+  
   <i class="fab fa-tableau"></i> <!-- Tableau icon -->
   <i class="fas fa-file-excel"></i> <!-- Excel icon -->
   <i class="fab fa-python"></i> <!-- Python icon -->
