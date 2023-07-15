@@ -109,8 +109,7 @@
 
 
 <!-- Github account stats header-->
-<h1 align="center">Github Stats</h1><picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width="50px" align="right"></picture>
-
+<div id="user-content-toc"><ul align="center"><summary><h1 style="display: inline-block">Github Stats</h1></summary></ul></div>
 <!-- Github Streak stats-->
 <details><summary><h3> 🔥 Streak Stats</h3></summary>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=i-godz&theme=tokyonight_duo" alt="i-godz" /></p></details>
