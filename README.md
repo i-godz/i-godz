@@ -62,8 +62,19 @@
 <a href="https://scikit-learn.org/stable/"><img alt="Scikit-learn" src="https://img.shields.io/badge/Scikit--learn-%23007ACC.svg?&logo=scikit-learn&logoColor=white"></a>
 </p>
 
+<h2>🎨 Database Management Systems</h2>
+<p>
+<a href="https://www.microsoft.com/en-us/sql/"><img alt="SQL Server" src="https://img.shields.io/badge/SQL%20Server-27AE60?logo=mssql&logoColor=fff&style=flat"></a>
+<a href="https://www.oracle.com/database/"><img alt="Oracle" src="https://img.shields.io/badge/Oracle-2088FF?logo=oracle&logoColor=fff&style=flat"></a>
+<a href="https://www.sqlite.org/"><img alt="SQLite" src="https://img.shields.io/badge/SQLite-29ABCA?logo=sqlite&logoColor=fff&style=flat"></a>
+<a href="https://www.postgresql.org/"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-%233174C0?logo=postgresql&logoColor=fff&style=flat"></a>
+</p>
 
-
+<h2>🎨 BI & Visualization</h2>
+<p>
+<a href="https://www.excel-easy.com/"><img alt="Excel" src="https://img.shields.io/badge/Excel-%230078D4.svg?&logo=excel&logoColor=white"></a>
+<a href="https://www.tableau.com/"><img alt="Tableau" src="https://img.shields.io/badge/Tableau-%233174C0.svg?&logo=tableau&logoColor=white"></a>
+</p>
 
 
 
