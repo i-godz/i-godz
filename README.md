@@ -133,9 +133,17 @@
 
 <!-- Github Recent account Activity -->
 <details><summary><h3>⚡ Recent GitHub Activity</h3></summary>
-	
-[![i-godz's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=i-godz&theme=github)](https://github.com/i-godz/github-readme-activity-graph)
+<script>
+const username = "i-godz";
+const theme = "github";
+const url = `https://github-readme-activity-graph.cyclic.app/graph?username=${username}&theme=${theme}`;
+const script = document.createElement("script");
+script.src = url;
+document.head.appendChild(script);
+</script>
 </details>
+
+
 
 <!-- Git profile Trophies -->
 <details><summary> <h3> :trophy: Git profile Trophies </h3></summary>
