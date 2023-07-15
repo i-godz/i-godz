@@ -19,8 +19,6 @@
   
 -  🌍 Based in Cairo.
   
-- 👍 Looking for opportunities to join as an intern in Data Analysis & Data Science fields.
-
 - 👨‍💻 All of my projects are available at my <a href="https://zyadwael.glitch.me" target="blank">**portfolio**</a>.
 
 - 👯 I’m looking to collaborate on any open source project.
@@ -34,7 +32,9 @@
 - 💪🏼 Fav Quote: "Great Developers never stop learning".
   
 - ⚡ Learning something new everyday keps my dopamine levels high.
-  
+
+- 👍 Looking for opportunities to join as an intern in Data Analysis & Data Science fields.
+ 
 - 😄 Pronouns : **He/Him/His**.
 
   <!-- Short Stats -->
