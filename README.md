@@ -139,24 +139,28 @@
 
 
 
-<details><summary><h3> :open_file_folder: My Repositories </h3></summary>	
+<details><summary><h3> :open_file_folder: My Repositories </h3></summary>
 <div>
   <p align="center">
-    <a href="https://github.com/i-godz/LeetCode_Problems">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=i-godz&repo=LeetCode_Problems&theme=tokyonight" alt="GitHub Stats" />
+    <a href="https://github.com/i-godz/SQL">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=i-godz&repo=SQL&theme=tokyonight" alt="GitHub Stats" />
     	</a>
-	<a href="https://github.com/i-godz/Data-Structures-and-Algorithms">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=i-godz&repo=Data-Structures-and-Algorithms&theme=tokyonight" alt="GitHub Stats" />
+	<a href="https://github.com/i-godz/LGMVIP-DataScience-Task01">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=i-godz&repo=LGMVIP-DataScience-Task01&theme=tokyonight" alt="GitHub Stats" />
     	</a>
-    	<a href="https://github.com/i-godz/Python-Projects">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=i-godz&repo=Python-Projects&theme=tokyonight" alt="GitHub Stats" />
+    	<a href="https://github.com/i-godz/LGMVIP-DataScience-Task02">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=i-godz&repo=LGMVIP-DataScience-Task02&theme=tokyonight" alt="GitHub Stats" />
     	</a>
-    	<a href="https://github.com/i-godz/Personal-Projects">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=i-godz&repo=Personal-Projects&theme=tokyonight" alt="GitHub Stats" />
+    	<a href="https://github.com/i-godz/LGMVIP-DataScience-Task03">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=i-godz&repo=LGMVIP-DataScience-Task03&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+    	<a href="https://github.com/i-godz/CodeClause-DataScience-Task01">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=i-godz&repo=CodeClause-DataScience-Task01&theme=tokyonight" alt="GitHub Stats" />
     	</a>
   </p>
 </div>
 </details>
+
 
 
 
