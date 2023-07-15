@@ -52,7 +52,7 @@
   </a>
 </p> -->
 
-<h2>🧰 Frameworks and Libraries</h2>
+<h3>🧰 Frameworks and Libraries</h3>
 <p>
 <a href="https://www.python.org/"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat"></a>
 <a href="https://www.sql.org/"><img alt="SQL" src="https://img.shields.io/badge/SQL-27AE60?logo=sql&logoColor=fff&style=flat"></a>
