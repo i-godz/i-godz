@@ -132,15 +132,14 @@
 
 
 <!-- Github Recent account Activity -->
-<details><summary><h3>⚡ Recent GitHub Activity</h3></summary>	
-[![i-godz's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=i-godz&theme=github	)](https://github.com/i-godz/github-readme-activity-graph)
+<details><summary><h3>⚡ Recent GitHub Activity</h3></summary>
+	
+[![i-godz's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=i-godz&theme=github)](https://github.com/i-godz/github-readme-activity-graph)
 </details>
 
 <!-- Git profile Trophies -->
 <details><summary> <h3> :trophy: Git profile Trophies </h3></summary>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=i-godz&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="i-godz" /></a> </p>
-	
-[![@i-godz's Holopin board](https://holopin.io/api/user/board?user=i-godz)](https://holopin.io/@i-godz)	
 </details>
 
 
