@@ -131,24 +131,48 @@
 </details>
 
 
-<!-- Github Recent account Activity -->
-<details><summary><h3>⚡ Recent GitHub Activity</h3></summary>
-<script>
-const username = "i-godz";
-const theme = "github";
-const url = `https://github-readme-activity-graph.cyclic.app/graph?username=${username}&theme=${theme}`;
-const script = document.createElement("script");
-script.src = url;
-document.head.appendChild(script);
-</script>
-</details>
-
-
-
 <!-- Git profile Trophies -->
 <details><summary> <h3> :trophy: Git profile Trophies </h3></summary>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=i-godz&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="i-godz" /></a> </p>
 </details>
+
+
+
+
+<details><summary><h3> :open_file_folder: My Repositories </h3></summary>	
+<div>
+  <p align="center">
+    <a href="https://github.com/i-godz/LeetCode_Problems">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=i-godz&repo=LeetCode_Problems&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+	<a href="https://github.com/i-godz/Data-Structures-and-Algorithms">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=i-godz&repo=Data-Structures-and-Algorithms&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+    	<a href="https://github.com/i-godz/Python-Projects">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=i-godz&repo=Python-Projects&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+    	<a href="https://github.com/i-godz/Personal-Projects">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=i-godz&repo=Personal-Projects&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+  </p>
+</div>
+</details>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 <!-- Connect with me -->
