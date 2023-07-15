@@ -42,7 +42,7 @@
 <!--Tech Stack Title-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I'm Familiar With👨🏻‍💻</h2></summary>
+    <summary><h1 style="display: inline-block">Technologies That I'm Familiar With👨🏻‍💻</h1></summary>
   </ul>
 </div>
 <!--tech stack icons-->
