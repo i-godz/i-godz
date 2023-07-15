@@ -52,17 +52,22 @@
   </a>
 </p>
 
-<!--tech stack icons-->
+<!-- Include the Font Awesome stylesheet -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" />
+
+<!-- Add the icons -->
 <p align="center">
-  <a href="https://feathericons.com/icons">
-<img src="https://feathericons.com/icons/tableau.svg" alt="Tableau icon"/>
-<img src="https://feathericons.com/icons/excel.svg" alt="Excel icon"/>
-<img src="https://feathericons.com/icons/pandas.svg" alt="Pandas icon"/>
-<img src="https://feathericons.com/icons/numpy.svg" alt="Numpy icon"/>
-<img src="https://feathericons.com/icons/matplot.svg" alt="Matplot icon"/>
-<img src="https://feathericons.com/icons/trello.svg" alt="Trello icon"/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,discord,github,mysql,py,vscode,linkedin,stackoverflow,wordpress,cpp,java&perline=14" alt="Skill Icons" />
   </a>
+  <i class="fab fa-tableau"></i> <!-- Tableau icon -->
+  <i class="fas fa-file-excel"></i> <!-- Excel icon -->
+  <i class="fab fa-python"></i> <!-- Python icon -->
+  <i class="fab fa-numpy"></i> <!-- NumPy icon -->
+  <i class="fas fa-chart-bar"></i> <!-- Matplotlib icon -->
+  <i class="fab fa-trello"></i> <!-- Trello icon -->
 </p>
+
 
 
 
