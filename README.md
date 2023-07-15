@@ -97,8 +97,10 @@
   <a href="https://leetcode.com/"><img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?&logo=leetcode&logoColor=white"></a>
 <a href="https://www.hackerrank.com/"><img alt="HackerRank" src="https://img.shields.io/badge/HackerRank-%232EC866.svg?&logo=hackerrank&logoColor=white"></a>
 <a href="https://sqlzoo.net/"><img alt="SQLZoo" src="https://img.shields.io/badge/SQLZoo-%23FFD700.svg?&logo=sqlzoo&logoColor=black"></a>
+<a href="https://www.datalemur.com/"><img alt="DataLemur" src="https://img.shields.io/badge/DataLemur-%23E6425E.svg?&logo=datalemur&logoColor=white"></a>
+<a href="https://stratascratch.com/"><img alt="Strata Scratch" src="https://img.shields.io/badge/Strata%20Scratch-%231EA5F9.svg?&logo=stratascratch&logoColor=white"></a>
+<a href="https://sqlbolt.com/"><img alt="SQLBolt" src="https://img.shields.io/badge/SQLBolt-%231FAD91.svg?&logo=sqlbolt&logoColor=white"></a>
 </p>
-
 
 
 
