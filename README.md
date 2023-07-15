@@ -51,12 +51,6 @@
     <summary><h1 style="display: inline-block">Technologies That I'm Familiar With👨🏻‍💻</h1></summary>
   </ul>
 </div>
-<!--tech stack icons-->
-<!-- <p align="center">
-  <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=git,discord,github,mysql,py,vscode,linkedin,stackoverflow,wordpress,cpp,java&perline=14"/>
-  </a>
-</p> -->
 
 <h3>⚛️ Frameworks and Libraries</h3>
 <p>
@@ -112,7 +106,7 @@
 
 
 <!-- Github account stats header-->
-## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
+<h1 align="center">Github Stats</h1><picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width="50px"></picture>
 
 <!-- Github Streak stats-->
 <details><summary><h3> 🔥 Streak Stats</h3></summary>
