@@ -52,19 +52,23 @@
   </a>
 </p>
 
-<!-- Include the Font Awesome stylesheet -->
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" />
+<!DOCTYPE html>
+<html>
+<head>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+</head>
+<body>
+  <p align="center">
 
-<!-- Add the icons -->
-<p align="center">
-  
-  <i class="fab fa-tableau"></i> <!-- Tableau icon -->
-  <i class="fas fa-file-excel"></i> <!-- Excel icon -->
-  <i class="fab fa-python"></i> <!-- Python icon -->
-  <i class="fab fa-numpy"></i> <!-- NumPy icon -->
-  <i class="fas fa-chart-bar"></i> <!-- Matplotlib icon -->
-  <i class="fab fa-trello"></i> <!-- Trello icon -->
-</p>
+    <i class="fab fa-tableau"></i> <!-- Tableau icon -->
+    <i class="fas fa-file-excel"></i> <!-- Excel icon -->
+    <i class="fab fa-python"></i> <!-- Python icon -->
+    <i class="fab fa-numpy"></i> <!-- NumPy icon -->
+    <i class="fas fa-chart-bar"></i> <!-- Matplotlib icon -->
+    <i class="fab fa-trello"></i> <!-- Trello icon -->
+  </p>
+</body>
+</html>
 
 
 
