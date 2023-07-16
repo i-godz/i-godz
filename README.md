@@ -101,6 +101,11 @@
 <a href="https://www.geeksforgeeks.org/"><img alt="GeeksforGeeks" src="https://img.shields.io/badge/GeeksforGeeks-%236495ED.svg?&logo=geeksforgeeks&logoColor=white"></a>
 </p>
 
+<div id="user-content-toc"><ul align="left"><summary><h2 style="display: inline-block"> 🐙 Operating Systems</h2></summary></ul></div>
+<p>
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white)
+![MacOS](https://img.shields.io/badge/MacOS-000000?style=flat-square&logo=macOS&logoColor=white)
+</p>
 
 <div id="user-content-toc"><ul align="left"><summary><h2 style="display: inline-block">🕹️ Competitive Programming & Problem Solving</h2></summary></ul></div>
 <p>
