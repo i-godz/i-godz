@@ -26,12 +26,11 @@
   
 - 👨‍💻 All of my projects are available at my <a href="https://zyadwael.glitch.me" target="blank">`portfolio`</a>
 
-- 👯 I’m looking to collaborate on any open source project.
+- 👯 I’m looking to collaborate on any open source projects.
   
 - 💬 Ask me about **`Data Analysis`** **&** **`Data Science`**.
 
 - 📫 How to reach me <a href="mailto:zyadwael366@gmail.com" target="_blank">`zyadwael366@gmail.com`</a>
-
 
 - 📄 Know about my experiences <a href="https://github.com/i-godz/i-godz/blob/main/Zyad%20Wael%20-%20Resume.pdf" target="blank">`resume`</a>.
 
