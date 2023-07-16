@@ -120,7 +120,16 @@
 
 
 <!-- Github account stats header-->
-<div id="user-content-toc"><ul align="center"><summary><h1 style="display: inline-block">Github Stats</h1><picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 40px>  </picture></summary></ul></div>
+<div id="user-content-toc">
+  <ul align="center">
+    <summary>
+      <h1 style="display: inline-block">Github Stats</h1>
+      <picture>
+        <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width="40px" style="margin-top: 30px;">
+      </picture>
+    </summary>
+  </ul>
+</div>
 
 
 <!-- Github Streak stats-->
