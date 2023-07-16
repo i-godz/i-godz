@@ -39,7 +39,7 @@
   
 - ⚡ Learning something new everyday keps my dopamine levels high.
 
-- 👍 Looking for opportunities to join as an intern in Data Analysis & Data Science fields.
+- 👍 Looking for opportunities to join as an intern in **`Data Analysis`** & **`Data Science`** fields.
  
 - 😄 Pronouns : **He/Him/His**.
 
