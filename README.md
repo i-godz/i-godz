@@ -55,10 +55,14 @@
 <!--Tech Stack Title-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Technologies That I'm Familiar With </h1><picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> </summary>
+    <summary style="margin-bottom: 5px;">
+      <h1 style="display: inline-block">Technologies That I'm Familiar With </h1>
+      <picture>
+        <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px>
+      </picture>
+    </summary>
   </ul>
 </div>
-
 
 <div id="user-content-toc"><ul align="left"><summary><h2 style="display: inline-block">⚛️ Frameworks and Libraries</h2></summary></ul></div>
 <p>
