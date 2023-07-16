@@ -32,7 +32,7 @@
 
 - 📫 Unlock boundless possibilities at <a href="mailto:zyadwael366@gmail.com" target="_blank">`zyadwael366@gmail.com`</a>
 
-- 📄 Experience <a href="https://github.com/i-godz/i-godz/blob/main/Zyad%20Wael%20-%20Resume.pdf" target="blank">`resume`</a> that Speaks volumes.
+- 📄 Experience <a href="https://github.com/i-godz/i-godz/blob/main/Zyad%20Wael%20-%20Resume.pdf" target="blank">`resume`</a> that speaks volumes.
 
 - 💪🏼 Fav Quote: "Great Developers never stop learning".
   
