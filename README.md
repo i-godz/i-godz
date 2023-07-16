@@ -57,7 +57,7 @@
     <summary style="margin-bottom: 50px;">
       <h1 style="display: inline-block">Technologies That I'm Familiar With </h1>
       <picture>
-        <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 45px>
+        <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 40px>
       </picture>
     </summary>
   </ul>
