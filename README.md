@@ -50,18 +50,11 @@
 </p>
 
 
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!--Tech Stack Title-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary style="margin-bottom: 5px;">
-      <h1 style="display: inline-block">Technologies That I'm Familiar With </h1>
-      <picture style="padding-top: 5000px; padding-left: 5000px;">
-        <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 45px>
-      </picture>
-    </summary>
+    <summary><h1 style="display: inline-block">Technologies That I'm Familiar With </h1><picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> </summary>
   </ul>
 </div>
 
