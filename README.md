@@ -19,17 +19,18 @@
   <img align="right" height="250" width="400" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/code.gif">
 </a> 
 
+
 - 👾 A senior student working his way around things.
   
 -  🌍 Based in Cairo.
-  
-- 👨‍💻 All of my projects are available at my <a href="https://zyadwael.glitch.me" target="blank">`portfolio`</a>
+   
+- 👨‍💻 Let my <a href="https://zyadwael.glitch.me" target="blank">`portfolio`</a> show you what I'm all about. 
 
-- 👯 I’m looking to collaborate on any open source projects.
-  
-- 💬 Ask me about **`Data Analysis`** **&** **`Data Science`**.
+- 👯 Let's make the world a better place with open source collaborations.
 
-- 📫 How to reach me <a href="mailto:zyadwael366@gmail.com" target="_blank">`zyadwael366@gmail.com`</a>
+- 💬  Dive into the World of **`Data Analysis`** **&** **`Data Science`** with me!.
+
+- 📫 Unlock boundless possibilities at <a href="mailto:zyadwael366@gmail.com" target="_blank">`zyadwael366@gmail.com`</a>
 
 - 📄 Know about my experiences <a href="https://github.com/i-godz/i-godz/blob/main/Zyad%20Wael%20-%20Resume.pdf" target="blank">`resume`</a>.
 
