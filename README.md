@@ -19,13 +19,12 @@
   <img align="right" height="250" width="400" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/code.gif">
 </a> 
 
-- :school: I am a `Junior` at [School of Cyber Science and Technology](https://cst.buaa.edu.cn/) in [BUAA](https://ev.buaa.edu.cn/)
 
 - 👾 A senior student working his way around things.
   
 -  🌍 Based in Cairo.
   
-- 👨‍💻 All of my projects are available at my <a href="https://zyadwael.glitch.me" target="blank">**portfolio**</a>.`Junior`
+- 👨‍💻 All of my projects are available at my <a href="https://zyadwael.glitch.me" target="blank">`portfolio`</a>.`Junior`
 
 - 👯 I’m looking to collaborate on any open source project.
   
@@ -33,7 +32,7 @@
 
 - 📫 How to reach me **zyadwael366@gmail.com**.
 
-- 📄 Know about my experiences <a href="https://github.com/i-godz/i-godz/blob/main/Zyad%20Wael%20-%20Resume.pdf" target="blank">**Resume**</a>.
+- 📄 Know about my experiences <a href="https://github.com/i-godz/i-godz/blob/main/Zyad%20Wael%20-%20Resume.pdf" target="blank">`resume`</a>.
 
 - 💪🏼 Fav Quote: "Great Developers never stop learning".
   
