@@ -8,7 +8,7 @@
 
 <!-- Hero Typescript Title -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%2305982&size=25&center=true&vCenter=true&width=600&height=100&lines=Junior+Data+Analyst;Junior+BI+Developer;If+data+is+batman,+call+me+robbin"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%2305982&size=25&center=true&vCenter=true&width=600&height=100&lines=If+data+is+batman,+call+me+robbin;+Junior+Data+Analyst;Junior+BI+Developer"></a>
 </p>
 
 <!--horizontal divider(gradiant)-->
