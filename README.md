@@ -24,11 +24,11 @@
   
 -  🌍 Based in Cairo.
   
-- 👨‍💻 All of my projects are available at my <a href="https://zyadwael.glitch.me" target="blank">`portfolio`</a>.`Junior`
+- 👨‍💻 All of my projects are available at my <a href="https://zyadwael.glitch.me" target="blank">`portfolio`</a>
 
 - 👯 I’m looking to collaborate on any open source project.
   
-- 💬 Ask me about **Data Analysis & Data Science**.
+- 💬 Ask me about `Data Analysis` ** & ** `Data Science`.
 
 - 📫 How to reach me **zyadwael366@gmail.com**.
 
