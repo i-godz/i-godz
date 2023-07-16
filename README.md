@@ -8,11 +8,8 @@
 
 <!-- Hero Typescript Title -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typingsvg.herokuapp.com/?font=Time+New+Roman&color=#05982&size=25&center=true&vCenter=true&width=600&height=100&lines=Junior+Data+Analyst;Junior+BI+Developer;If+data+is+batman,+call+me+robbin&delay=100">
-  </a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%2305982&size=25&center=true&vCenter=true&width=600&height=100&lines=Junior+Data+Analyst;Junior+BI+Developer;If+data+is+batman,+call+me+robbin"></a>
 </p>
-
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -21,7 +18,6 @@
 <a target="_blank">
   <img align="right" height="250" width="400" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/code.gif">
 </a> 
-
 
 - 👾 A senior student working his way around things.
   
@@ -52,8 +48,6 @@
   <img src="https://img.shields.io/github/stars/i-godz?label=Stars" alt="Total Stars">
 </p>
 
-
-
 <!--Tech Stack Title-->
 <div id="user-content-toc">
   <ul align="center">
@@ -66,9 +60,6 @@
   </ul>
 </div>
 
-
-
-
 <div id="user-content-toc"><ul align="left"><summary><h2 style="display: inline-block">⚛️ Frameworks and Libraries</h2></summary></ul></div>
 <p>
 <a href="https://www.python.org/"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat"></a>
@@ -79,7 +70,6 @@
 <a href="https://scikit-learn.org/stable/"><img alt="Scikit-learn" src="https://img.shields.io/badge/Scikit--learn-%23007ACC.svg?&logo=scikit-learn&logoColor=white"></a>
 </p>
 
-
 <div id="user-content-toc"><ul align="left"><summary><h2 style="display: inline-block">🗂️ Database Management Systems</h2></summary></ul></div>
 <p>
 <a href="https://www.microsoft.com/en-us/sql/"><img alt="SQL Server" src="https://img.shields.io/badge/SQL%20Server-27AE60?logo=mssql&logoColor=fff&style=flat"></a>
@@ -88,14 +78,12 @@
 <a href="https://www.postgresql.org/"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-%233174C0?logo=postgresql&logoColor=fff&style=flat"></a>
 </p>
 
-
 <div id="user-content-toc"><ul align="left"><summary><h2 style="display: inline-block">🎨 BI & Visualization</h2></summary></ul></div>
 <p>
   <a href="https://docs.google.com/spreadsheets/"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets-%234285F4.svg?&logo=google-sheets&logoColor=white"></a>
 <a href="https://www.excel-easy.com/"><img alt="Excel" src="https://img.shields.io/badge/Excel-%230078D4.svg?&logo=excel&logoColor=white"></a>
 <a href="https://www.tableau.com/"><img alt="Tableau" src="https://img.shields.io/badge/Tableau-%233174C0.svg?&logo=tableau&logoColor=white"></a>
 </p>
-
 
 <div id="user-content-toc"><ul align="left"><summary><h2 style="display: inline-block">🛠️ Softwares & Other Tools</h2></summary></ul></div>
 <p>
