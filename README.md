@@ -125,11 +125,12 @@
     <summary>
       <h1 style="display: inline-block">Github Stats</h1>
       <picture>
-        <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width="40px" style="margin-top: -30px;">
+        <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width="40px" style="vertical-align: middle;">
       </picture>
     </summary>
   </ul>
 </div>
+
 
 
 <!-- Github Streak stats-->
