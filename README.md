@@ -58,7 +58,7 @@
   <ul align="center">
     <summary style="margin-bottom: 5px;">
       <h1 style="display: inline-block">Technologies That I'm Familiar With </h1>
-      <picture style="padding-top: 50px; padding-left: 50px;">
+      <picture style="padding-top: 500px; padding-left: 500px;">
         <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 45px>
       </picture>
     </summary>
