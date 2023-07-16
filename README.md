@@ -48,6 +48,9 @@
   <img src="https://img.shields.io/github/stars/i-godz?label=Stars" alt="Total Stars">
 </p>
 
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <!--Tech Stack Title-->
 <div id="user-content-toc">
   <ul align="center">
