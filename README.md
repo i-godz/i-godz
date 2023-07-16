@@ -55,7 +55,7 @@
 <!--Tech Stack Title-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Technologies That I'm Familiar With👨🏻‍💻</h1></summary>
+    <summary><h1 style="display: inline-block">Technologies That I'm Familiar With</h1><picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> </summary>
   </ul>
 </div>
 
