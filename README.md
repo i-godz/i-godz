@@ -28,11 +28,11 @@
 
 - 👯 Let's make the world a better place with open source collaborations.
 
-- 💬  Dive into the World of **`Data Analysis`** **&** **`Data Science`** with me!.
+- 💬  Dive into the World of **`Data Analysis`** **&** **`Data Science`** with me.
 
 - 📫 Unlock boundless possibilities at <a href="mailto:zyadwael366@gmail.com" target="_blank">`zyadwael366@gmail.com`</a>
 
-- 📄 Know about my experiences <a href="https://github.com/i-godz/i-godz/blob/main/Zyad%20Wael%20-%20Resume.pdf" target="blank">`resume`</a>.
+- 📄 Experience <a href="https://github.com/i-godz/i-godz/blob/main/Zyad%20Wael%20-%20Resume.pdf" target="blank">`resume`</a> that Speaks volumes.
 
 - 💪🏼 Fav Quote: "Great Developers never stop learning".
   
