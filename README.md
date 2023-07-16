@@ -30,7 +30,8 @@
   
 - 💬 Ask me about **`Data Analysis`** **&** **`Data Science`**.
 
-- 📫 How to reach me `zyadwael366@gmail.com`.
+- 📫 How to reach me <a href="mailto:zyadwael366@gmail.com" target="_blank">`zyadwael366@gmail.com`</a>
+
 
 - 📄 Know about my experiences <a href="https://github.com/i-godz/i-godz/blob/main/Zyad%20Wael%20-%20Resume.pdf" target="blank">`resume`</a>.
 
