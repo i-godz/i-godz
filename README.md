@@ -54,10 +54,10 @@
 <!--Tech Stack Title-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary style="margin-bottom: 1000px;">
+    <summary style="margin-bottom: 50px;">
       <h1 style="display: inline-block">Technologies That I'm Familiar With </h1>
       <picture>
-        <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px>
+        <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 45px>
       </picture>
     </summary>
   </ul>
