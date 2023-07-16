@@ -101,20 +101,20 @@
 <a href="https://www.geeksforgeeks.org/"><img alt="GeeksforGeeks" src="https://img.shields.io/badge/GeeksforGeeks-%236495ED.svg?&logo=geeksforgeeks&logoColor=white"></a>
 </p>
 
-<div id="user-content-toc"><ul align="left"><summary><h2 style="display: inline-block"> 🐙 Operating Systems</h2></summary></ul></div>
-<p>
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white)
-![MacOS](https://img.shields.io/badge/MacOS-000000?style=flat-square&logo=macOS&logoColor=white)
-</p>
-
 <div id="user-content-toc"><ul align="left"><summary><h2 style="display: inline-block">🕹️ Competitive Programming & Problem Solving</h2></summary></ul></div>
 <p>
-  <a href="https://leetcode.com/"><img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?&logo=leetcode&logoColor=white"></a>
+<a href="https://leetcode.com/"><img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?&logo=leetcode&logoColor=white"></a>
 <a href="https://www.hackerrank.com/"><img alt="HackerRank" src="https://img.shields.io/badge/HackerRank-%232EC866.svg?&logo=hackerrank&logoColor=white"></a>
 <a href="https://sqlzoo.net/"><img alt="SQLZoo" src="https://img.shields.io/badge/SQLZoo-%23FFD700.svg?&logo=sqlzoo&logoColor=black"></a>
 <a href="https://www.datalemur.com/"><img alt="DataLemur" src="https://img.shields.io/badge/DataLemur-%23E6425E.svg?&logo=datalemur&logoColor=white"></a>
 <a href="https://stratascratch.com/"><img alt="Strata Scratch" src="https://img.shields.io/badge/Strata%20Scratch-%231EA5F9.svg?&logo=stratascratch&logoColor=white"></a>
 <a href="https://sqlbolt.com/"><img alt="SQLBolt" src="https://img.shields.io/badge/SQLBolt-%231FAD91.svg?&logo=sqlbolt&logoColor=white"></a>
+</p>
+
+<div id="user-content-toc"><ul align="left"><summary><h2 style="display: inline-block"> 🐙 Operating Systems</h2></summary></ul></div>
+<p>
+<a href="https://www.windows.com/"><img alt="Windows" src="https://img.shields.io/badge/Windows-%23008CBA.svg?&logo=windows&logoColor=white"></a>
+<a href="https://www.apple.com/"><img alt="macOS" src="https://img.shields.io/badge/macOS-%23000000.svg?&logo=apple&logoColor=white"></a>
 </p>
 
 <!--horizontal divider(gradiant)-->
