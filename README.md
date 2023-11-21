@@ -38,7 +38,7 @@
   
 - ⚡ Learning something new everyday keps my dopamine levels high.
 
-- 👍 Seeking thrilling Volunteer or Internship roles in **`Data Analysis`** **&** **`Data Science`** fields.
+- 👍 Seeking thrilling Volunteer or Internship roles in **`Data Analytics`** **&** **`Business Intellegence`** fields.
 
 - 😄 Pronouns : **He/Him/His**.
 
