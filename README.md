@@ -24,11 +24,11 @@
   
 -  🌍 Based in Cairo.
    
-- 👨‍💻 Let my <a href="https://zyadwael.glitch.me" target="blank">`portfolio`</a> show you what I'm all about. 
+- 👨‍💻 Let my <a href="https://zyadwael.glitch.me" target="blank">`portfolio`</a> show you what I'm all about.
 
 - 👯 Let's make the world a better place with open source collaborations.
 
-- 💬  Dive into the World of **`Data Analysis`** **&** **`Data Science`** with me.
+- 💬  Dive into the World of **`Data Analytics`** **&** **`Business Intellegence`** with me.
 
 - 📫 Unlock boundless possibilities at <a href="mailto:zyadwael366@gmail.com" target="_blank">`zyadwael366@gmail.com`</a>
 
