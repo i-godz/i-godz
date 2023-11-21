@@ -28,7 +28,7 @@
 
 - 👯 Let's make the world a better place with open source collaborations.
 
-- 💬  Dive into the World of **`Data Analytics`** **&** **`Business Intellegence`** with me.
+- 💬  Dive into  **`Data Analytics`** **&** **`Business Intellegence`** intel with me.
 
 - 📫 Unlock boundless possibilities at <a href="mailto:zyadwael366@gmail.com" target="_blank">`zyadwael366@gmail.com`</a>
 
