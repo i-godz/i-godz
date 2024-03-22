@@ -24,7 +24,7 @@
   
 -  🌍 Based in Cairo.
    
-- 👨‍💻 Let my <a href="[https://zyadwael.glitch.me](https://zyadwael.vercel.app/)" target="blank">`portfolio`</a> show you what I'm all about.
+- 👨‍💻 Let my <a href="https://zyadwael.vercel.app/" target="blank">`portfolio`</a> show you what I'm all about.
 
 - 👯 Let's make the world a better place with open source collaborations.
 
