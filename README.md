@@ -20,7 +20,7 @@
 </a> 
 
 
-- 👾 A senior student working his way around things.
+- 👾 A dataBASED guru working his way around things.
   
 -  🌍 Based in Cairo.
    
@@ -32,7 +32,7 @@
 
 - 📫 Unlock boundless possibilities at <a href="mailto:zyadwael366@gmail.com" target="_blank">`zyadwael366@gmail.com`</a>
 
-- 📄 Experience <a href= "https://github.com/i-godz/i-godz/blob/main/BI%20Developer.pdf" target="blank">`resume`</a> that speaks volumes.
+- 📄 Experience <a href= "[https://github.com/i-godz/i-godz/blob/main/BI%20Developer.pdf](https://drive.google.com/file/d/14RBDcpAxkqpi-5lMp3H7iaiFDV1-OPKo/view?usp=sharing)" target="blank">`resume`</a> that speaks volumes.
   
 - 💪🏼 Fav Quote: "Great Developers never stop learning".
   
